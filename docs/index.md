@@ -4,5 +4,5 @@ Programming Quotes est petite application qui permet d'afficher des citations hu
 
 ## Membres du groupe
 
-- `initiateur` : [DAQUIN Mattis]
+- `collaborateur 1` : [Dubreuil nathan]
 
