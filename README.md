@@ -14,3 +14,4 @@ Solutions de l'évaluation notée 2 du groupe [nom-groupe] à l'aide de MkDocs.
 ## URLs des dépôts
 
 - `initiateur` : [https://github.com/TI204/quotes-docs-rf-de-manaudou]
+contributeur -3 : https://github.com/Sagoram/quotes-docs-rf-de-manaudou
