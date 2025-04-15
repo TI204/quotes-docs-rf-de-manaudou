@@ -1,7 +1,15 @@
-site_name: My Docs
-
+site_name : My docs
 nav:
   - Home: index.md
-  - Features: features.md
-  - Core Functions: functions.md
-  - User Interface: user-interface.md
+  - User's Guide:
+      - Features: features/features.md
+      - Core Functions: features/functions.md
+      - User Interface: features/user-interface.md
+  - Logs:
+      - Initiateur: logs/log-mattis.md
+      - Contributeur 1: logs/log-nathan.md
+      - Contributeur 2: logs/log-guillaume.md
+      - Contributeur 3: logs/log-aden.md
+      - Contributeur 4: logs/log-taha.md
+
+theme: readthedocs
