@@ -6,7 +6,7 @@ Solutions de l'évaluation notée 2 du groupe [nom-groupe] à l'aide de MkDocs.
 
 - `initiateur` : DAQUIN Mattis 
 - `contributeur-1` : DUBREUIL Nathan
-- `contributeur-2` : ALESSANDRI Guillaume
+- `contributeur-2` : ALESSANDRI Guillaume (changed)
 - `contributeur-3` : FIDON Aden
 - `contributeur-4` : BAIDOU Taha
 
